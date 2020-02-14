@@ -1,0 +1,16 @@
+[
+{
+  "modid": "brokenworldbees",
+  "name": "Broken World Bees",
+  "description": "Additional bees for the broken world modpack.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tao"],
+  "credits": "Tao",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
